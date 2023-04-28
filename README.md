@@ -94,30 +94,30 @@ In this file we configure the pages and links with html templates. We link the f
 
 ### Contribution Report
 
-Shaun Christopher Chaudhary (10622059@mydbs.ie)
+### Shaun Christopher Chaudhary (10622059@mydbs.ie)
 
-#### Frontend
+##### Frontend
 - Implemented the user login page using HTML and CSS
 - Created the design for the dashboard using CSS and JavaScript
 - Implemented the navigation bar for the admin and staff portals
 - Implemented the CRUD operations pages for the admin portal using HTML and CSS
 
-#### Backend
+##### Backend
 - Designed the database schema for the student information system
 - Created the logic for displaying statistics on the admin dashboard
 - Implemented the backend functionality for user authentication and authorization
 - Created the logic for CRUD operations on the database
 
 
-Swikar Omargekar (10608904@mydbs.ie)
+### Swikar Omargekar (10608904@mydbs.ie)
 
-#### Frontend
+##### Frontend
 - Created the design for the home page of the student portal using CSS and JavaScript
 - Implemented the design for the staff portal dashboard using CSS and JavaScript
 - Implemented the pages for student details, course details, and subject details using HTML and CSS
 - Tested the frontend for usability and responsiveness
 
-#### Backend
+##### Backend
 - Implemented the functionality for CRUD operations on student and staff details using Python and Django
 - Implemented the logic for calculating and displaying information related to courses and subjects
 - Set up the SQLite database using Python
