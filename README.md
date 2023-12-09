@@ -123,3 +123,12 @@ In this file we configure the pages and links with html templates. We link the f
 - Set up the SQLite database using Python
 - Tested the backend functionality using Django's testing framework
 
+- ### References
+- Halachev, P., 2020. Web application with Python and security of the information system. Security & Future, 4(3), pp.103-106.
+- Prokofyeva, N. and Boltunova, V., 2017. Analysis and practical application of PHP frameworks in development of web information systems. Procedia Computer Science, 104, pp.51-56.
+- https://www.w3schools.com/html/
+- https://data-flair.training/blogs/python-school-students-management-system/
+- https://itsourcecode.com/free-projects/python-projects/school-management-system-project-in-python-with-source-code/?utm_content=cmp-true
+- https://github.com/akkupy/School-Management-System
+- https://github.com/topics/school-management-system?l=python
+
